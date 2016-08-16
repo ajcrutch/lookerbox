@@ -4,5 +4,5 @@
 - include: "*.dashboard.lookml"  # include all the dashboards
 
 - explore: lookerboxdata
-#   access_filter_fields: [lookerboxdata.name]
+  access_filter_fields: [lookerboxdata.name]
 
